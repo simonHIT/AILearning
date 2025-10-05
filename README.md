@@ -4,3 +4,4 @@ AI应用开发实战营笔记
 - [大模型发展全景与关键技术](2.大模型发展全景与关键技术.md)
 - [DeepSeek 现状、应用与技术创新](3.DeepSeek现状&应用&技术创新.md)
 - [使用DeepSeek开发你的第一个RAG](4.使用DeepSeek开发你的第一个RAG.md)
+- [使用DeepSeek开发小红书文案生成助手](5.使用DeepSeek开发小红书文案生成助手.md)
